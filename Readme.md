@@ -2,7 +2,7 @@
 
 Jiaqi Sun, Alireza Entezari, Baba C Vemuri 
 Exploiting structural redundancy in q-space for improved EAP reconstruction from highly undersampled (k,q)-space in DMRI
-Medical Image Analysis Volume 54 pgs. 122-137
+Medical Image Analysis, Volume 54, 2019, pgs. 122-137
 
 This code is a MATLAB implementation of the above paper on EAP reconstruction from highly undersampled data by
 exploiting q-space redundancy.
