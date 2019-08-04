@@ -15,9 +15,10 @@ exploiting q-space redundancy.
 ## Quickstart
 
 Please put the `SurfBox` directory inside of `./Surfacelet` and the `fminlbfgs_version2c` directory in the main
-directory.
+directory. To compile the Surfacelet toolbox (highly recomended), modify and run `mexcompile.m` in the `SurfBox` directory. 
 
-An example script is provided in `example.m`. The main directory contains a synthetic sample signal `Sq_test_12.mat` and perfect 
+An example script is provided in `example.m` and can be run immediately. 
+The main directory contains a synthetic sample signal `Sq_test_12.mat` and perfect 
 reconstruction `Pr_test_12.mat` along with a set of sampling masks for varying sampling rates in the `masks` directory.
 After running `example.m`, the reconstruction will be stored in the MATLAB variable `Pr_recon1`. 
 The main function is contained in `mrics5_PLS_TV_init_515_objhalf` and a brief explanation of each of the parameters are
