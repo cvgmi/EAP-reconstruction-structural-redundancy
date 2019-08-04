@@ -9,11 +9,9 @@ exploiting q-space redundancy.
 
 If you use this code please cite the following papers:
 
-* Baba C. Vemuri, Jiaqi Sun, Monami Banerjee, Zhixin Pan, Sara M. Turner, David D. Fuller, John R. Forder, Alireza Entezari,
-A geometric framework for ensemble average propagator reconstruction from diffusion MRI,
-Medical Image Analysis
+* Jiaqi Sun, Alireza Entezari, Baba C. Vemuri, Exploiting structural redundancy in q-space for improved EAP reconstruction from highly undersampled (k, q)-space in DMRI, Medical Image Analysis, Volume 54, 2019, Pages 122-137
 
-* Sun J, Sakhaee E, Entezari A, Vemuri BC. Leveraging EAP-Sparsity for Compressed Sensing of MS-HARDI in (k, q)-Space. Inf Process Med Imaging.
+* Sun, J., Sakhaee, E., Entezari, A., & Vemuri, B. C. (2015). Leveraging EAP-Sparsity for Compressed Sensing of MS-HARDI in (k, q)-Space. Information processing in medical imaging, Volume 24, 2015, Pages 375–386
 
 ## Dependencies
 
