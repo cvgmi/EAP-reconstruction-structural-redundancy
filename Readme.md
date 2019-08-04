@@ -7,6 +7,14 @@ Medical Image Analysis Volume 54 pgs. 122-137
 This code is a MATLAB implementation of the above paper on EAP reconstruction from highly undersampled data by
 exploiting q-space redundancy.
 
+If you use this code please cite the following papers:
+
+* Baba C. Vemuri, Jiaqi Sun, Monami Banerjee, Zhixin Pan, Sara M. Turner, David D. Fuller, John R. Forder, Alireza Entezari,
+A geometric framework for ensemble average propagator reconstruction from diffusion MRI,
+Medical Image Analysis
+
+* Sun J, Sakhaee E, Entezari A, Vemuri BC. Leveraging EAP-Sparsity for Compressed Sensing of MS-HARDI in (k, q)-Space. Inf Process Med Imaging.
+
 ## Dependencies
 
 * [Surfacelet Toolbox by Yue Lu](https://www.mathworks.com/matlabcentral/fileexchange/14485-surfacelet-toolbox)
