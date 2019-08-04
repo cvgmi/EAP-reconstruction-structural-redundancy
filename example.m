@@ -45,9 +45,7 @@ toc;
 
 % save result           
 Pr_recon1 = ifftshift(recovered1);            
-Pr_recon1(Pr_recon1<0) = 0;
-fname = sprintf('./Output/res_rate%d.mat',perc);
-save(fname, 'Pr_recon1');           
+Pr_recon1(Pr_recon1<0) = 0;   
 
 % report running time
 et = toc(st);
